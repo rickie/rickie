@@ -20,7 +20,7 @@
 
 ### [Say goodbye to bugs and anti-patterns with Error Prone](https://sessionize.com/s/rickossendrijver/say-goodbye-to-bugs-and-anti-patterns-with-error-p/75895)
 * 🇭🇷 Rovinj, [JavaCro 2024](https://2024.javacro.hr), 45 minutes
-* 🇳🇴 Oslo, [JavaZone 2024](https://2024.javazone.no/program/35cc30a9-d68a-4c4c-948b-cd25e58636d9), 60 minutes, rated 4.73/5 [🎥](https://vimeo.com/1006212203)
+* 🇳🇴 Oslo, [JavaZone 2024](https://2024.javazone.no/program/35cc30a9-d68a-4c4c-948b-cd25e58636d9), 60 minutes, [🎥](https://vimeo.com/1006212203) (4.7/5) 
 * 🇧🇬 Sofia, [JPrime 2024](https://jprime.io/), 60 minutes, [🎥](https://www.youtube.com/watch?v=BS11cnDTRt8)
 * 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 50 minutes [🎥](https://www.youtube.com/watch?v=lQvFJiJKL_0)
 * :
