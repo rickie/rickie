@@ -41,3 +41,7 @@
 * 🌎 Online, [ABN Amro Developer Meetup](https://www.meetup.com/nl-NL/abn-amro-developer/events/291461961)
 * 🌎 Online, [Rabobank Internal Tech House](https://rabobank.nl), 50 minutes
 * 🇳🇱 Amsterdam, [AmsterdamJUG 2023](https://www.meetup.com/meetinup-picnic/events/291446725), 50 minutes
+
+## Featured
+
+## Blogs
