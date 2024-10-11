@@ -28,14 +28,14 @@
 
 ### [Say goodbye to bugs and anti-patterns with Error Prone](https://sessionize.com/s/rickossendrijver/say-goodbye-to-bugs-and-anti-patterns-with-error-p/75895)
 * 🇭🇷 Rovinj, [JavaCro 2024](https://2024.javacro.hr), 45 minutes
-* 🇳🇴 Oslo, [JavaZone 2024](https://2024.javazone.no/program/35cc30a9-d68a-4c4c-948b-cd25e58636d9), 60 minutes, [🎥](https://vimeo.com/1006212203) (4.7/5) 
+* 🇳🇴 Oslo, [JavaZone 2024](https://2024.javazone.no/program/35cc30a9-d68a-4c4c-948b-cd25e58636d9), 60 minutes, [🎥](https://vimeo.com/1006212203) (4.73/5) 
 * 🇧🇬 Sofia, [JPrime 2024](https://jprime.io/), 60 minutes, [🎥](https://www.youtube.com/watch?v=BS11cnDTRt8)
 * 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 50 minutes [🎥](https://www.youtube.com/watch?v=lQvFJiJKL_0)
 * 🌎 Online, [Automation Week 2024](https://www.hiphops.io/automation-week), 20 minutes, [🎥](https://www.automationweek.live/talks/say-goodbye-to-bugs-and-antipatterns-with-error-prone/)
-* 🇵🇱 Kraków, [{j}DD 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=vKz8TszHWdw)
+* 🇵🇱 Kraków, [{j}DD 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=vKz8TszHWdw) (4.6/5)
 * :es: Barcelona [DevBcn](), 50 minutes, [🎥](https://www.youtube.com/watch?v=NdSJ6pvJGKo)
 * 🇳🇱 Utrecht, [JSpring 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=TA3tyOwMRNk), (rated 4th best talk)
-* 🇵🇱 Kraków, [Devoxx Poland 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=8Fx2lx9vAtY) (4.6/5)
+* 🇵🇱 Kraków, [Devoxx Poland 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=8Fx2lx9vAtY) (4.63/5)
 * :es: Barcelona, [Spring I/O 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=-47WD-3wKBs)
 * 🌎 Online, [PlatformCon](https://2023.platformcon.com/speakers/rick-ossendrijver), 15 minutes [🎥](https://www.youtube.com/watch?v=6llnrUtVlrE)
 * 🌎 Online, [European Software Craftsman Meetup](), 75 minutes, [🎥](https://www.youtube.com/watch?v=KPNimQMH0k4)
