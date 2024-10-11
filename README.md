@@ -13,9 +13,11 @@
 
 ### [Boosting developer effectiveness with a Java platform team](https://sessionize.com/s/rickossendrijver/boosting-developer-effectiveness-with-a-java-platf/84395) 
 * 🇭🇷 Rovinj, [JavaCro 2024](https://2024.javacro.hr), 45 minutes
+* 🇳🇱 Utrecht, [Flock Community Meetup 2024](https://www.meetup.com/flock-community-meetups/events/299079924), 40 minutes, [🎥](https://www.youtube.com/watch?v=Q4o9wwAYMc8)
+* 🇳🇱 Arnhem, [ArnhemJUG 2024](https://www.meetup.com/arnhemjug/events/298698357), 50 minutes
+* 🌎 Online, [Code Frenzy 2024](https://codefrenzy.pl/lecture.html#id=90512), 45 minutes
 * 🇳🇱 Utrecht, [UtrechtJUG 2024](https://www.meetup.com/utrecht-java-user-group/events/297881366/), 50 minutes
 * 🇳🇱 Amsterdam, [AmsterdamJUG 2023](https://www.meetup.com/meetinup-picnic/events/296926809), 50 minutes
-* 🌎 Online, [Automation Week 2024](https://www.hiphops.io/automation-week), X minutes, [🎥]()
 * 🇳🇱 Amsterdam, [ING Internal event](https://www.ing.nl), 60 minutes
 
 ### [Say goodbye to bugs and anti-patterns with Error Prone](https://sessionize.com/s/rickossendrijver/say-goodbye-to-bugs-and-anti-patterns-with-error-p/75895)
@@ -23,11 +25,12 @@
 * 🇳🇴 Oslo, [JavaZone 2024](https://2024.javazone.no/program/35cc30a9-d68a-4c4c-948b-cd25e58636d9), 60 minutes, [🎥](https://vimeo.com/1006212203) (4.7/5) 
 * 🇧🇬 Sofia, [JPrime 2024](https://jprime.io/), 60 minutes, [🎥](https://www.youtube.com/watch?v=BS11cnDTRt8)
 * 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 50 minutes [🎥](https://www.youtube.com/watch?v=lQvFJiJKL_0)
+* 🌎 Online, [Automation Week 2024](https://www.hiphops.io/automation-week), X minutes, [🎥](https://www.automationweek.live/talks/say-goodbye-to-bugs-and-antipatterns-with-error-prone/)
 * 🇵🇱 Kraków, [{j}DD 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=vKz8TszHWdw)
-* :spain: Barcelona [DevBcn](), 50 minutes, [🎥](https://www.youtube.com/watch?v=NdSJ6pvJGKo)
+* :es: Barcelona [DevBcn](), 50 minutes, [🎥](https://www.youtube.com/watch?v=NdSJ6pvJGKo)
 * 🇳🇱 Utrecht, [JSpring 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=TA3tyOwMRNk), (rated 4th best talk)
 * 🇵🇱 Kraków, [Devoxx Poland 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=8Fx2lx9vAtY) (4.6/5)
-* :spain: Barcelona, [Spring I/O 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=-47WD-3wKBs)
+* :es: Barcelona, [Spring I/O 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=-47WD-3wKBs)
 * 🌎 Online, [PlatformCon](https://2023.platformcon.com/speakers/rick-ossendrijver), 15 minutes [🎥](https://www.youtube.com/watch?v=6llnrUtVlrE)
 * 🌎 Online, [European Software Craftsman Meetup](), 75 minutes, [🎥](https://www.youtube.com/watch?v=KPNimQMH0k4)
 * 🇳🇱 Delft, [TU Delft Lunch Lecture](https://www.tudelft.nl), 50 minutes
