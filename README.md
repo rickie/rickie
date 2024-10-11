@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## Conferences talks and workshops
+
 ### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/rickossendrijver/transforming-code-with-openrewrite-and-refaster/107598) (Workshop)
 * 🇳🇱 Ede, [JFall 2024](https://jfall.nl), 240 minutes
 * 🇧🇪 Antwerp, [Devoxx Belgium 2024](https://devoxx.be), 180 minutes (4.3/5)
@@ -45,5 +47,14 @@
 ## Featured
 
 ### Livestreams
+* [Gradle's Build Propulsion Lab at JCON](https://www.youtube.com/watch?v=fy9Gq6yyKzs).
+* [Foojay at JCON](https://www.youtube.com/watch?v=pNRqAhD8kxs).
+* [Community Office Hours | Refaster style recipes & Picnic’s Error Prone Support](https://www.youtube.com/watch?v=DUc53vuJQ7Q).
 
-### Blogs
+### Blog posts
+* [Automating large-scale refactorings with Error Prone](https://blog.picnic.nl/automating-large-scale-refactorings-with-error-prone-3b42f6585225).
+* [Picnic loves Error Prone: producing high-quality and consistent Java code](https://medium.com/picnic-engineering/picnic-loves-error-prone-producing-high-quality-and-consistent-java-code-b8a566be6886).
+
+### Academic papers
+* [Automating Library Migrations with Error Prone and Refaster](https://dl.acm.org/doi/10.1145/3594264.3594265).
+* [Towards automated library migrations with Error Prone and Refaster](https://dl.acm.org/doi/pdf/10.1145/3477314.3507153).
