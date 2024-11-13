@@ -40,7 +40,7 @@
 * 🌎 Online, [PlatformCon](https://2023.platformcon.com/speakers/rick-ossendrijver), 15 minutes [🎥](https://www.youtube.com/watch?v=6llnrUtVlrE)
 * 🌎 Online, [European Software Craftsman Meetup](), 75 minutes, [🎥](https://www.youtube.com/watch?v=KPNimQMH0k4)
 * 🇳🇱 Delft, [TU Delft Lunch Lecture](https://www.tudelft.nl), 50 minutes
-* 🌎 Online, [ABN Amro Developer Meetup](https://www.meetup.com/nl-NL/abn-amro-developer/events/291461961)
+* 🌎 Online, [ABN Amro Developer Meetup](https://www.meetup.com/nl-NL/abn-amro-developer/events/291461961), 45 minutes
 * 🌎 Online, [Rabobank Internal Tech House](https://rabobank.nl), 50 minutes
 * 🇳🇱 Amsterdam, [AmsterdamJUG 2023](https://www.meetup.com/meetinup-picnic/events/291446725), 50 minutes
 
