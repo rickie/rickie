@@ -14,7 +14,7 @@
 * 🇳🇱 Amsterdam, [CodeLabJUG 2023](https://www.meetup.com/codelabjug/events/299169758/), 180 minutes
 
 ### [Boosting developer effectiveness with a Java platform team](https://sessionize.com/s/rickossendrijver/boosting-developer-effectiveness-with-a-java-platf/84395) 
-* 🇭🇷 Rovinj, [JavaCro 2024](https://2024.javacro.hr), 45 minutes
+* 🇭🇷 Rovinj, [JavaCro 2024](https://2024.javacro.hr), 45 minutes (4.5/5)
 * 🇳🇱 Breda, [BrabantJUG 2024](https://www.meetup.com/brabant-jug/events/300447002), 50 minutes
 * 🇳🇱 Utrecht, [Flock Community Meetup 2024](https://www.meetup.com/flock-community-meetups/events/299079924), 30 minutes, [🎥](https://www.youtube.com/watch?v=Q4o9wwAYMc8)
 * 🇳🇱 Arnhem, [ArnhemJUG 2024](https://www.meetup.com/arnhemjug/events/298698357), 50 minutes
