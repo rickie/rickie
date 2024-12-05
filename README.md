@@ -52,6 +52,7 @@
 * [Community Office Hours | Refaster style recipes & Picnic’s Error Prone Support](https://www.youtube.com/watch?v=DUc53vuJQ7Q).
 
 ### Blog posts
+* [Developing a Java plugin that automatically fixes code](https://blog.picnic.nl/developing-a-java-plugin-that-automatically-fixes-code-a712a07a7b4e).
 * [Automating large-scale refactorings with Error Prone](https://blog.picnic.nl/automating-large-scale-refactorings-with-error-prone-3b42f6585225).
 * [Picnic loves Error Prone: producing high-quality and consistent Java code](https://medium.com/picnic-engineering/picnic-loves-error-prone-producing-high-quality-and-consistent-java-code-b8a566be6886).
 
