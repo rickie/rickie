@@ -2,6 +2,9 @@
 
 ## Conferences talks and workshops
 
+### [Moving Fast and Staying Aligned: How Automation Powers Progress](https://sessionize.com/s/rickossendrijver/moving-fast-and-staying-aligned-how-automation-pow/110417) 
+* 🇳🇱 Amsterdam, [Devworld Conference 2025], 50 minutes
+
 ### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/rickossendrijver/transforming-code-with-openrewrite-and-refaster/107598) (Workshop)
 * 🇳🇱 Ede, [JFall 2024](https://jfall.nl), 240 minutes
 * 🇧🇪 Antwerp, [Devoxx Belgium 2024](https://devoxx.be), 180 minutes (4.33/5)
