@@ -3,6 +3,7 @@
 ## Conferences talks and workshops
 
 ### [GraalVM in action: Building a Polyglot Rule Engine for Dynamic Business Logic](https://sessionize.com/s/rickossendrijver/graalvm-in-action-building-a-polyglot-rule-engine-/126919) 
+* 🇳🇱 Amsterdam, [VoxxedDays Amsterdam 2025](https://amsterdam.voxxeddays.com), 50 minutes
 * 🇳🇱 Amsterdam, [AmsterdamJUG 2025](https://www.meetup.com/amsterdam-java-user-group/events/305160853), 30 minutes
 
 ### [Moving Fast and Staying Aligned: How Automation Powers Progress](https://sessionize.com/s/rickossendrijver/moving-fast-and-staying-aligned-how-automation-pow/110417) 
