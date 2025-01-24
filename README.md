@@ -7,6 +7,7 @@
 * 🇳🇱 Amsterdam, [AmsterdamJUG 2025](https://www.meetup.com/amsterdam-java-user-group/events/305160853), 30 minutes
 
 ### [Moving Fast and Staying Aligned: How Automation Powers Progress](https://sessionize.com/s/rickossendrijver/moving-fast-and-staying-aligned-how-automation-pow/110417) 
+* 🇳🇱 Utrecht, [Blipz on the Radar 2025](https://blipz.io/), 50 minutes
 * 🇳🇱 Amsterdam, [Devworld Conference 2025](https://devworldconference.com), 50 minutes
 
 ### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/rickossendrijver/transforming-code-with-openrewrite-and-refaster/107598) (Workshop)
