@@ -17,6 +17,7 @@
 * 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 240 minutes
 
 ### [Streamline Your Codebase: Automating Improvements with Error Prone](https://sessionize.com/s/rickossendrijver/streamline-your-codebase-automating-improvements-w/75897) (Workshop)
+* :es: Barcelona, [Spring I/O 2025](https://2025.springio.net), 120 minutes
 * 🇧🇬 Sofia, [JPrime 2024](https://jprime.io), 240 minutes
 * 🇳🇱 Ede, [JFall 2023](https://jfall.nl), 240 minutes
 * 🇳🇱 Bodegraven, [Craftsmen internal conference 2023](https://craftsmen.nl), 240 minutes
@@ -45,7 +46,7 @@
 * :es: Barcelona [DevBcn](), 50 minutes, [🎥](https://www.youtube.com/watch?v=NdSJ6pvJGKo)
 * 🇳🇱 Utrecht, [JSpring 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=TA3tyOwMRNk), (rated 4th best talk)
 * 🇵🇱 Kraków, [Devoxx Poland 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=8Fx2lx9vAtY) (4.63/5)
-* :es: Barcelona, [Spring I/O 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=-47WD-3wKBs)
+* :es: Barcelona, [Spring I/O 2023](https://2023.springio.net/), 45 minutes, [🎥](https://www.youtube.com/watch?v=-47WD-3wKBs)
 * 🌎 Online, [PlatformCon](https://2023.platformcon.com/speakers/rick-ossendrijver), 15 minutes [🎥](https://www.youtube.com/watch?v=6llnrUtVlrE)
 * 🌎 Online, [European Software Craftsman Meetup](), 75 minutes, [🎥](https://www.youtube.com/watch?v=KPNimQMH0k4)
 * 🇳🇱 Delft, [TU Delft Lunch Lecture](https://www.tudelft.nl), 50 minutes
