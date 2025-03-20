@@ -63,7 +63,7 @@
 * [Community Office Hours | Refaster style recipes & Picnic’s Error Prone Support](https://www.youtube.com/watch?v=DUc53vuJQ7Q).
 
 ### Blog posts
-* [Refaster & OpenRewrite: Better Together](https://blog.picnic.nl/refaster-openrewrite-better-together-6475f2a337d6)
+* [Refaster & OpenRewrite: Better Together](https://blog.picnic.nl/refaster-openrewrite-better-together-6475f2a337d6).
 * [Enabling rapid business use case iteration with Apache Calcite](https://blog.picnic.nl/enabling-rapid-business-use-case-iteration-with-apache-calcite-6ee9b13287f8).
 * [Developing a Java plugin that automatically fixes code](https://blog.picnic.nl/developing-a-java-plugin-that-automatically-fixes-code-a712a07a7b4e).
 * [Automating large-scale refactorings with Error Prone](https://blog.picnic.nl/automating-large-scale-refactorings-with-error-prone-3b42f6585225).
