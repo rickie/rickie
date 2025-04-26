@@ -3,6 +3,7 @@
 ## Conferences talks and workshops
 
 ### [GraalVM in action: Building a Polyglot Rule Engine for Dynamic Business Logic](https://sessionize.com/s/rickossendrijver/graalvm-in-action-building-a-polyglot-rule-engine-/126919) 
+* 🇳🇱 Utrecht, [JSpring 2025](https://jspring.nl), 50 minutes
 * 🇬🇧 London, [Devoxx UK 2025](https://www.devoxx.co.uk), 50 minutes
 * 🇳🇱 Amsterdam, [VoxxedDays Amsterdam 2025](https://amsterdam.voxxeddays.com), 50 minutes, [🎥](https://www.youtube.com/watch?v=IYnvxc_Kp9Q)
 * 🇳🇱 Amsterdam, [AmsterdamJUG 2025](https://www.meetup.com/amsterdam-java-user-group/events/305160853), 30 minutes
@@ -45,7 +46,7 @@
 * 🌎 Online, [Automation Week 2024](https://www.hiphops.io/automation-week), 20 minutes, [🎥](https://www.automationweek.live/talks/say-goodbye-to-bugs-and-antipatterns-with-error-prone/)
 * 🇵🇱 Kraków, [{j}DD 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=vKz8TszHWdw) (4.6/5)
 * :es: Barcelona [DevBcn](), 50 minutes, [🎥](https://www.youtube.com/watch?v=NdSJ6pvJGKo)
-* 🇳🇱 Utrecht, [JSpring 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=TA3tyOwMRNk), (rated 4th best talk)
+* 🇳🇱 Utrecht, [JSpring 2023](https://jspring.nl), 45 minutes, [🎥](https://www.youtube.com/watch?v=TA3tyOwMRNk), (rated 4th best talk)
 * 🇵🇱 Kraków, [Devoxx Poland 2023](), 45 minutes, [🎥](https://www.youtube.com/watch?v=8Fx2lx9vAtY) (4.63/5)
 * :es: Barcelona, [Spring I/O 2023](https://2023.springio.net/), 45 minutes, [🎥](https://www.youtube.com/watch?v=-47WD-3wKBs)
 * 🌎 Online, [PlatformCon](https://2023.platformcon.com/speakers/rick-ossendrijver), 15 minutes [🎥](https://www.youtube.com/watch?v=6llnrUtVlrE)
