@@ -62,6 +62,7 @@
 ## Featured
 
 ### Livestreams
+* [GraalVM: Extending Java with Python and JavaScript at Picnic](https://www.youtube.com/watch?v=-JuchoMU75U).
 * [Gradle's Build Propulsion Lab at JCON](https://www.youtube.com/watch?v=fy9Gq6yyKzs).
 * [Foojay at JCON](https://www.youtube.com/watch?v=pNRqAhD8kxs).
 * [Community Office Hours | Refaster style recipes & Picnic’s Error Prone Support](https://www.youtube.com/watch?v=DUc53vuJQ7Q).
