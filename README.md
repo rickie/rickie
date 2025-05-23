@@ -62,6 +62,7 @@
 ## Featured
 
 ### Livestreams
+* [Verbose Mode at Spring I/O 2025](https://www.youtube.com/watch?v=wIzsxMFfO0I)
 * [GraalVM: Extending Java with Python and JavaScript at Picnic](https://www.youtube.com/watch?v=-JuchoMU75U).
 * [Gradle's Build Propulsion Lab at JCON](https://www.youtube.com/watch?v=fy9Gq6yyKzs).
 * [Foojay at JCON](https://www.youtube.com/watch?v=pNRqAhD8kxs).
