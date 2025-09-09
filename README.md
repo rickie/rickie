@@ -2,6 +2,10 @@
 
 ## Conferences talks and workshops
 
+### Breaking your testing habits (workshop)
+* 🇧🇪 Antwerp, [Devoxx Belgium 2025](https://devoxx.be), 120 minutes
+
+
 ### [GraalVM in action: Building a Polyglot Rule Engine for Dynamic Business Logic](https://sessionize.com/s/rickossendrijver/graalvm-in-action-building-a-polyglot-rule-engine-/126919) 
 * 🇳🇱 Utrecht, [JSpring 2025](https://jspring.nl), 50 minutes
 * 🇬🇧 London, [Devoxx UK 2025](https://www.devoxx.co.uk), 50 minutes, [🎥](https://www.youtube.com/watch?v=NxVyvZ3k7XE)
@@ -12,13 +16,13 @@
 * 🇳🇱 Utrecht, [Blipz on the Radar 2025](https://blipz.io/), 50 minutes
 * 🇳🇱 Amsterdam, [Devworld Conference 2025](https://devworldconference.com), 50 minutes
 
-### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/rickossendrijver/transforming-code-with-openrewrite-and-refaster/107598) (Workshop)
+### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/rickossendrijver/transforming-code-with-openrewrite-and-refaster/107598) (workshop)
 * 🇳🇱 Amsterdam, [ING Internal Workshop 2025](https://ing.nl), 240 minutes
 * 🇳🇱 Ede, [JFall 2024](https://jfall.nl), 240 minutes
 * 🇧🇪 Antwerp, [Devoxx Belgium 2024](https://devoxx.be), 180 minutes (4.33/5)
 * 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 240 minutes
 
-### [Streamline Your Codebase: Automating Improvements with Error Prone](https://sessionize.com/s/rickossendrijver/streamline-your-codebase-automating-improvements-w/75897) (Workshop)
+### [Streamline Your Codebase: Automating Improvements with Error Prone](https://sessionize.com/s/rickossendrijver/streamline-your-codebase-automating-improvements-w/75897) (workshop)
 * :es: Barcelona, [Spring I/O 2025](https://2025.springio.net), 120 minutes
 * 🇧🇬 Sofia, [JPrime 2024](https://jprime.io), 240 minutes
 * 🇳🇱 Ede, [JFall 2023](https://jfall.nl), 240 minutes
