@@ -7,7 +7,7 @@
 * 🇧🇪 Antwerp, [Devoxx Belgium 2025](https://devoxx.be), 120 minutes
 
 ### [GraalVM in action: Building a Polyglot Rule Engine for Dynamic Business Logic](https://sessionize.com/s/rickossendrijver/graalvm-in-action-building-a-polyglot-rule-engine-/126919) 
-* 🌎 Online, [WeAreDevelopers](), 45 minutes
+* 🌎 Online, [WeAreDevelopers 2025](), 45 minutes
 * 🇳🇱 Utrecht, [JSpring 2025](https://jspring.nl), 50 minutes
 * 🇬🇧 London, [Devoxx UK 2025](https://www.devoxx.co.uk), 50 minutes, [🎥](https://www.youtube.com/watch?v=NxVyvZ3k7XE)
 * 🇳🇱 Amsterdam, [VoxxedDays Amsterdam 2025](https://amsterdam.voxxeddays.com), 50 minutes, [🎥](https://www.youtube.com/watch?v=IYnvxc_Kp9Q)
