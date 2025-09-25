@@ -3,6 +3,7 @@
 ## Conferences talks and workshops
 
 ### [Break your testing habits](https://m.devoxx.com/events/dvbe25/talks/6235/breaking-your-testing-habits) (workshop)
+* 🇸🇪 Stockholm, [JFokus 2026](https://www.jfokus.se/talks.html), 240 minutes
 * 🇳🇱 Ede, [JFall 2025](https://jfall.nl/timetable/), 240 minutes
 * 🇧🇪 Antwerp, [Devoxx Belgium 2025](https://devoxx.be), 120 minutes
 
