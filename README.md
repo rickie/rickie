@@ -13,6 +13,9 @@
 * 🇳🇱 Amsterdam, [VoxxedDays Amsterdam 2025](https://amsterdam.voxxeddays.com), 50 minutes, [🎥](https://www.youtube.com/watch?v=IYnvxc_Kp9Q)
 * 🇳🇱 Amsterdam, [AmsterdamJUG 2025](https://www.meetup.com/amsterdam-java-user-group/events/305160853), 30 minutes
 
+### [Refactoring Power Tools in Java](https://www.meetup.com/european-software-crafters/events/308580043/)
+* 🌎 Online, [European Software Crafters](https://www.meetup.com/european-software-crafters) with [Victor Rentea](https://victorrentea.ro), 20 minutes, [🎥](https://www.youtube.com/live/QVo21bLev5w?si=vTjIe5GSALJNZhS4&t=2689)
+
 ### [Moving Fast and Staying Aligned: How Automation Powers Progress](https://sessionize.com/s/rickossendrijver/moving-fast-and-staying-aligned-how-automation-pow/110417) 
 * 🇳🇱 Utrecht, [Blipz on the Radar 2025](https://blipz.io/), 50 minutes
 * 🇳🇱 Amsterdam, [Devworld Conference 2025](https://devworldconference.com), 50 minutes
