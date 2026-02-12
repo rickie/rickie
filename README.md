@@ -70,6 +70,9 @@
 ### Panel Discussion
 * 🇳🇱 Utrecht, [Kotlin Meetup - Technology Decisions & Adoption in Companies](https://www.meetup.com/dutch-kotlin-user-group/events/306898855/?eventOrigin=group_events_list), 60 minutes
 
+### Unconference
+* 🇸🇪 Stockholm, [JFokus 2026](https://www.jfokus.se/talks.html), 240 minutes
+
 ## Featured
 
 ### Livestreams
