@@ -5,7 +5,7 @@
 ### [Break your testing habits](https://m.devoxx.com/events/dvbe25/talks/6235/breaking-your-testing-habits) (workshop)
 * 🇩🇪 Cologne, [JCON Europe 2026](https://schedule.jcon.one/2026/), 120 minutes
 * 🇸🇪 Stockholm, [JFokus 2026](https://www.jfokus.se/talks.html) morning, 240 minutes
-* * 🇸🇪 Stockholm, [JFokus 2026](https://www.jfokus.se/talks.html) afternoon, 240 minutes
+* 🇸🇪 Stockholm, [JFokus 2026](https://www.jfokus.se/talks.html) afternoon, 240 minutes
 * 🇳🇱 Ede, [JFall 2025](https://jfall.nl/timetable/), 240 minutes
 * 🇧🇪 Antwerp, [Devoxx Belgium 2025](https://devoxx.be), 120 minutes
 
