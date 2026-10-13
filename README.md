@@ -67,6 +67,9 @@
 * 🌎 Online, [Rabobank Internal Tech House](https://rabobank.nl), 50 minutes
 * 🇳🇱 Amsterdam, [AmsterdamJUG 2023](https://www.meetup.com/meetinup-picnic/events/291446725), 50 minutes
 
+### [Towards automated library migrations with Error Prone and Refaster](https://dl.acm.org/doi/10.1145/3594264.3594265)
+* 🌎 Online, [SAC 2002](https://www.sigapp.org/sac/sac2022), 15 minutes, [🎥](http://youtube.com/watch?v=_6YcQK1Gr4k)
+
 ### Panel Discussion
 * 🇳🇱 Utrecht, [Kotlin Meetup - Technology Decisions & Adoption in Companies](https://www.meetup.com/dutch-kotlin-user-group/events/306898855/?eventOrigin=group_events_list), 60 minutes
 
