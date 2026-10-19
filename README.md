@@ -2,6 +2,9 @@
 
 ## Conferences talks and workshops
 
+### [Powering Personalization: How we built our Generic Decision Engine](https://sessionize.com/s/rickossendrijver/powering-personalization-how-we-built-our-generic-/192478)
+* 🇳🇱 Ede, [JFall 2026](https://jfall.nl/timetable/), 45 minutes
+
 ### [Break your testing habits](https://m.devoxx.com/events/dvbe25/talks/6235/breaking-your-testing-habits) (workshop)
 * 🇩🇪 Cologne, [JCON Europe 2026](https://schedule.jcon.one/2026/), 120 minutes
 * 🇸🇪 Stockholm, [JFokus 2026](https://www.jfokus.se/talks.html) morning, 240 minutes (4.73/5)
