@@ -79,6 +79,10 @@
 ### Unconference
 * 🇸🇪 Stockholm, [JFokus 2026](https://www.jfokus.se/talks.html), 240 minutes
 
+### Poster presentation
+* 🇳🇱 Zeist, [Afasieconferentie State of the Art 2026](https://afasienet.com/professionals/afasieconferentie/afasieconferentie-2026/), Express Me: Minder tijd aan voorbereiding, meer tijd voor de cliënt
+* 🇳🇱 Zeist, [Afasieconferentie State of the Art 2025](https://afasienet.com/professionals/afasieconferentie/afasieconferentie-2025/), Express Me: jouw stem, jouw verhaal. Hét nieuwe innovatieve ondersteunende communicatiehulpmiddel!
+
 ## Featured
 
 ### Livestreams
